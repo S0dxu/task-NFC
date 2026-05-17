@@ -1,0 +1,11 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <tech-list>
+        <tech>android.nfc.tech.Nfca</tech>
+        <tech>android.nfc.tech.MifareUltralight</tech>
+        <tech>android.nfc.tech.Ndef</tech>
+        <tech>android.nfc.tech.IsoDep</tech>
+        <tech>android.nfc.tech.Nfcb</tech>
+        <tech>android.nfc.tech.Nfcf</tech>
+        <tech>android.nfc.tech.Nfcv</tech>
+    </tech-list>
+</resources>

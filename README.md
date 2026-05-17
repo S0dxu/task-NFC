@@ -23,8 +23,8 @@ Modifying global system parameters such as `Settings.Secure` and `Settings.Globa
 ### 1. Clone and Build
 Clone the repository, modify the UID with your NFC tag id and compile the application to your target device:
 ```bash
-git clone [https://github.com/yourusername/car-nfc-tasker.git](https://github.com/yourusername/car-nfc-tasker.git)
-cd car-nfc-tasker
+git clone [https://github.com/S0dxu/task-NFC.git](https://github.com/S0dxu/task-NFC.git)
+cd task-NFC
 flutter build apk
 ```
 
